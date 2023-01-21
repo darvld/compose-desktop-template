@@ -1,0 +1,8 @@
+# IDE
+.fleet/
+.idea/
+.vscode/
+
+# Gradle builds
+.gradle/
+build/
